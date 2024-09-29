@@ -1,0 +1,11 @@
+:root {
+    --header-height: 56px;
+    --header-gap: 30px;
+
+    --header-logo-width: 40px;
+    --header-logo-height: 40px;
+
+    @media (min-width: 1024px) {
+        --header-height: 86px;
+    }
+}

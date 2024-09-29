@@ -1,0 +1,15 @@
+:root {
+    --input-line-height: 20px;
+    --input-padding: 15px;
+    --input-padding-search: 15px 52px 15px 34px;
+    --input-padding-right: 44px;
+    --input-padding-left: 34px;
+    --input-svg-size: 16px;
+    --input-svg-size-large: 18px;
+}
+
+@media screen and (min-width: 768px) {
+    :root {
+        --input-padding-search: 11px 56px;
+    }
+}

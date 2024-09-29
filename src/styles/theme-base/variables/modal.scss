@@ -1,0 +1,15 @@
+:root {
+    --modal-padding: 30px;
+    --modal-border-radius: 16px;
+    --modal-line-height: 36px;
+    --modal-svg-size: 26px;
+    --modal-svg-size-lb: 14px;
+    --modal-width: 90%;
+    --modal-gap: 30px;
+}
+
+@media screen and (min-width: 768px) {
+    :root {
+        --modal-width: 70%;
+    }
+}

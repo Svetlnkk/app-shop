@@ -1,0 +1,66 @@
+:root {
+    --font-family: 'Graphik LC Web', sans-serif;
+
+    --bg-globe-color: #fbfbfb;
+    --bg-island-color: #ffffff;
+    --bg-island-inner: #f8f8fb;
+    --bg-overlay-color: #00000080;
+
+    --text-primary-color: #000000;
+    --text-primary-two-color: #fe9b00;
+    --text-secondary-color: #a5a7b4;
+    --text-tertiary-color: #d2d1d7;
+    --text-primary-inv-color: #ffffff;
+    --text-link-color: #fe9b00;
+    --text-placeholder-color: #a5a7b4;
+    --text-input-color: #000000;
+    --text-error-input-color: #ff3636;
+    --text-error-validation-color: #ff3636;
+
+    --input-disabled-color: #f1f1f3;
+    --input-hover-color: #ededf3;
+    --input-clicted-color: #ffffff;
+    --input-fillied-color: #f1f1f5;
+    --input-fillied-error: #fee0e0;
+    --input-clicted-outline-color: #fe9b00;
+    --input-clicted-error-color: #ff3636;
+
+    --icon-primary-color: #a5a7b4;
+    --icon-secondary-color: #fe9b00;
+    --icon-secondary-inv-color: #ffffff;
+
+    --btn-primary-default: #fe9b00;
+    --btn-primary-hover: #fe8700;
+    --btn-primary-disabled: #fe9b00;
+    --btn-secondary-default: #f1f1f3;
+    --btn-secondary-hover: #dedee5;
+    --btn-secondary-disabled: #f1f1f3;
+
+    --el-transition: background-color 0.2s, color 0.2s, border-color 0.2;
+    --el-transition-all: all 0.3s ease-in-out;
+
+    --scroll-color: #fe9b00;
+
+    --shadow-default: 0px 1px 14px 0px rgba(0, 0, 0, 0.06);
+    --shadow-default-secondary: 0px 1px 14px rgba(0, 0, 0, 0.1);
+
+    --opacity-default: 1;
+    --opacity-disabled: 0.5;
+
+    --border-radius: 8px;
+    --border-width: 1.5px;
+
+    --font-weight: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 600;
+
+    --font-line-height: 20px;
+    --font-line-height-medium: 24px;
+
+    color-scheme: light;
+
+    --font-size: 16px;
+    --font-size-sm: 20px;
+    --font-size-m: 24px;
+    --font-size-lg: 32px;
+}
